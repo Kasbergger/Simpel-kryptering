@@ -5,11 +5,13 @@ All is writen en danish for school purposes.
 Et simpelt krypterings program
 
 Formål:
+
 	At læse en fil og skrive på en anden fil, derved 
 	skabe "permanent" data opbevaring for efter 
-	programmet slukkes
+	programmet slukkes.
 
 Lært:
+
 	At åbne en pointer til en fil: FILE *fp
 		fp = fopen("fil.addresse", "type (r, r+, w, w+)")
 	At læse fra en fil og skrive det ned i en anden
